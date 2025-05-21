@@ -1,1 +1,1 @@
-# amazon_clone
+This is the replica of amazon.com website
